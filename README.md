@@ -21,3 +21,6 @@ In commands of both types, conditions can be empty: all events fall under such a
 # Input and Output format
 Each line consists one command, for example:
 **Add 2017-11-07 big sport event** - add pair(**2017-11-07,big sport event**) to the database;
+
+## In addition:
+In this project I used my own simple [unit-test framework](https://github.com/valery-iv/test-framework)
