@@ -1,5 +1,5 @@
 # Description
-This simple database works with pairs(date,event). Also this database knows select and remove events by user condition.
+This database works with pairs(date,event). Also this database knows select and remove events by user condition.
 
 # List of operations:
 
@@ -49,9 +49,6 @@ Removed 2 entries
 2017-11-20 Monday
 No entries
 ```
-
-
-
 
 ## In addition:
 In this project I used my own simple [unit-test framework](https://github.com/valery-iv/test-framework)
